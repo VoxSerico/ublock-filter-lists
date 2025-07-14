@@ -1,0 +1,19 @@
+! Title: Youtube Annoyances
+! Expires: 1 days
+
+! Remove the pink gradient from the progressbar.
+www.youtube.com##.ytp-play-progress:style(background: #FF0033 !important;)
+www.youtube.com##.ytp-swatch-background-color:style(background-color: #FF0033 !important)
+
+! Fix horizontal scrollbar sometimes appearing in fullscreen.
+www.youtube.com##ytd-app[fullscreen]:style(overflow-x:hidden !important;)
+
+! Remove shorts shelf in Home.
+www.youtube.com##ytd-rich-shelf-renderer[is-shorts]
+
+! Remove shorts shelf in Search.
+www.youtube.com##ytd-reel-shelf-renderer
+www.youtube.com##ytd-search grid-shelf-view-model
+
+! Remove shorts in Search.
+www.youtube.com##ytd-video-renderer:has(a[href^="/shorts/"])
