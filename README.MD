@@ -3,6 +3,7 @@
 Filter list for annoyances in Youtube's desktop layout.
 
 * Remove the pink gradient from the progressbar.
+* Restore the progress bar's original red color.
 * Fix horizontal scrollbar sometimes appearing in fullscreen.
 * Remove shorts shelf in Home.
 * Remove shorts shelf in Search.
