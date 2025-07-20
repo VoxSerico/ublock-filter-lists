@@ -3,6 +3,7 @@
 
 ! Remove the pink gradient from the progressbar.
 www.youtube.com##.ytp-play-progress:style(background: var(--yt-spec-static-brand-red, #FF0033) !important;)
+www.youtube.com##.ytThumbnailOverlayProgressBarHostWatchedProgressBarSegment:style(background: var(--yt-spec-static-brand-red, #FF0033) !important;)
 
 ! Fix horizontal scrollbar sometimes appearing in fullscreen.
 www.youtube.com##ytd-app[fullscreen]:style(overflow-x:hidden !important;)
