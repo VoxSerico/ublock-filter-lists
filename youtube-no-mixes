@@ -1,2 +1,5 @@
+! Title: Youtube remove mixes
+! Expires: 1 days
+
 ! 27 Feb 2026 Hide mixes
 www.youtube.com##ytd-rich-item-renderer:has(div.ytBadgeShapeText:has-text(Mix))
