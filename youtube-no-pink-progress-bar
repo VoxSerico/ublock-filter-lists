@@ -1,3 +1,6 @@
+! Title: YouTube - No pink progress bar
+! Expires: 1 days
+
 ! Restore the progress bar's original red color.
 www.youtube.com##html:style(--yt-spec-static-brand-red: #FF0000 !important;)
 
