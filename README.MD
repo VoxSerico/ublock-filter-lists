@@ -16,7 +16,7 @@ Manually copy and paste one url per row because github doesn't allow `abp:` prot
 1. Open the uBlock Origin extension's dashboard.
 2. Click on **Filter lists**
 3. Scroll all the way down and click on **Import...**
-4. Paste in the URL of a raw filterlist file(s), one per row: 
+4. Paste in the URLs of raw filterlist file(s), one per row: 
 ```txt
 https://raw.githubusercontent.com/VoxSerico/ublock-filter-lists/refs/heads/master/youtube-bugfixes.txt
 https://raw.githubusercontent.com/VoxSerico/ublock-filter-lists/refs/heads/master/youtube-no-pink-progress-bar.txt
