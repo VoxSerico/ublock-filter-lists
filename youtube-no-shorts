@@ -1,3 +1,6 @@
+! Title: Youtube - Remove Shorts
+! Expires: 1 days
+
 ! 26 Aug 2026 Shorts in search results
 www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHost:has(span.ytAttributedStringHost:has-text(Shorts))
 
