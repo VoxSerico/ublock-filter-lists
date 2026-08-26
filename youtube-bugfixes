@@ -1,0 +1,5 @@
+! Title: Youtube bugfixes
+! Expires: 1 days
+
+! Fix horizontal scrollbar sometimes appearing in fullscreen.
+www.youtube.com##ytd-app[fullscreen]:style(overflow-x:hidden !important;)
