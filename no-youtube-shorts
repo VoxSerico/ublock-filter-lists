@@ -1,0 +1,5 @@
+! 26 Aug 2026 Shorts in search results
+www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHost:has(span.ytAttributedStringHost:has-text(Shorts))
+
+! 23 Feb 2026 Shorts in subscriptions feed.
+www.youtube.com##ytd-rich-section-renderer:has(ytd-rich-shelf-renderer[is-shorts])
