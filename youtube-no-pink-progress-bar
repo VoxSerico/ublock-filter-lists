@@ -1,0 +1,9 @@
+! Title: YouTube - No pink progress bar
+! Expires: 1 days
+
+! Restore the progress bar's original red color.
+www.youtube.com##html:style(--yt-spec-static-brand-red: #FF0000 !important;)
+
+! Remove the pink gradient from the progressbar.
+www.youtube.com##.ytp-play-progress:style(background: var(--yt-spec-static-brand-red, #FF0033) !important;)
+www.youtube.com##.ytThumbnailOverlayProgressBarHostWatchedProgressBarSegment:style(background: var(--yt-spec-static-brand-red, #FF0033) !important;)
