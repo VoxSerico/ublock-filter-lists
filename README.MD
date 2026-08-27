@@ -18,6 +18,7 @@ Manually copy and paste one url per row because github doesn't allow `abp:` prot
 3. Scroll all the way down and click on **Import...**
 4. Paste in the URLs of raw filterlist file(s), one per row: 
 ```txt
+https://raw.githubusercontent.com/VoxSerico/ublock-filter-lists/refs/heads/master/youtube-no-most-relevant
 https://raw.githubusercontent.com/VoxSerico/ublock-filter-lists/refs/heads/master/youtube-bugfixes
 https://raw.githubusercontent.com/VoxSerico/ublock-filter-lists/refs/heads/master/youtube-no-pink-progress-bar
 https://raw.githubusercontent.com/VoxSerico/ublock-filter-lists/refs/heads/master/youtube-no-mixes
