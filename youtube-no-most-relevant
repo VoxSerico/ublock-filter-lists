@@ -1,0 +1,5 @@
+! Title: YouTube - No Most relevant
+! Expires: 1 days
+
+! 26 Feb 2026 "Most relevant" in subscriptions
+www.youtube.com##ytd-rich-section-renderer:has(#title:has-text(Most relevant))
